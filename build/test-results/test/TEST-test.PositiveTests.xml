@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.PositiveTests" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-04-07T21:31:40" hostname="MacBook-Pro-Anton.local" time="0.007">
+  <properties/>
+  <testcase name="test01()" classname="test.PositiveTests" time="0.0"/>
+  <testcase name="test02()" classname="test.PositiveTests" time="0.0"/>
+  <testcase name="test03()" classname="test.PositiveTests" time="0.001"/>
+  <testcase name="test04()" classname="test.PositiveTests" time="0.0"/>
+  <testcase name="test05()" classname="test.PositiveTests" time="0.0"/>
+  <testcase name="test06()" classname="test.PositiveTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
